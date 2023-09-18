@@ -1,2 +1,2 @@
 server-port=8888
-message: 'Hello config-server'
+message: Hello config-server
